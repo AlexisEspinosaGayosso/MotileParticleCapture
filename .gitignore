@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#AEG. The recommended additions:
+*.pyc
+*~
+*.swp
